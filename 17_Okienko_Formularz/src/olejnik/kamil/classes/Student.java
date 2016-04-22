@@ -1,8 +1,8 @@
 package olejnik.kamil.classes;
 
 public class Student {
-	private int id;
-	private String imie;
+	private int id;	//to jest id
+	private String imie; // to jest imie
 	private String nazwisko;
 	private int wiek;
 	private int rokStudiow;
